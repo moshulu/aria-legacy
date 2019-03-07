@@ -1,8 +1,26 @@
 
-> *IMPORTANT NOTE: The original ARIA 2.9.4 README follows. The code has since been modified
->  by removing some obsolete or little-used classes and other changes.
->  ArNetworking is also not currently included.  Therefore this README is now
->  out of date. *
+# aria-legacy
+This version includes /lib/\*.so files. Other versions of the library do not include that.
+## Installation
+
+```
+git clone https://github.com/moshulu/aria-legacy/
+```
+```
+cd (your directory where you cloned it)
+```
+```
+sudo make
+```
+This step will take a little while.
+
+Congrats! You're officially installed. Make sure your environment variables are up to date:
+```
+LD_LIBRARY_PATH=(wherever you installed)/lib
+```
+```
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH
+```
 
 ARIA
 ====
