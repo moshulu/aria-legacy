@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/usr/local/Aria/devel -DCMAKE_INSTALL_PREFIX=/usr/local/Aria/install -G Unix Makefiles

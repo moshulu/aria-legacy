@@ -1,0 +1,14 @@
+/usr/local/Aria/build/CMakeFiles/install/local.dir
+/usr/local/Aria/build/CMakeFiles/install/strip.dir
+/usr/local/Aria/build/CMakeFiles/install.dir
+/usr/local/Aria/build/CMakeFiles/list_install_components.dir
+/usr/local/Aria/build/CMakeFiles/clean_test_results.dir
+/usr/local/Aria/build/CMakeFiles/run_tests.dir
+/usr/local/Aria/build/CMakeFiles/doxygen.dir
+/usr/local/Aria/build/CMakeFiles/tests.dir
+/usr/local/Aria/build/CMakeFiles/download_extra_data.dir
+/usr/local/Aria/build/CMakeFiles/gtest.dir
+/usr/local/Aria/build/CMakeFiles/test.dir
+/usr/local/Aria/build/CMakeFiles/gtest_main.dir
+/usr/local/Aria/build/CMakeFiles/edit_cache.dir
+/usr/local/Aria/build/CMakeFiles/rebuild_cache.dir
